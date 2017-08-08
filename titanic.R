@@ -1,4 +1,4 @@
-#Tacuma SOlomon
+#Tacuma Solomon
 #R code for Kaggle Titanic Data Set
 #Uses rpart Decision Tree
 #C5.0 Decision Tree
